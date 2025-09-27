@@ -1,2 +1,2 @@
 # Auto-Refresh-Extension
-welcome
+前往安裝
